@@ -2528,3 +2528,4 @@ document.getElementById("nextPageBtn").addEventListener("click", () => {
     displayPagination();
   }
 });
+console.log(generateNames("male", "arabic", "fierce"));
