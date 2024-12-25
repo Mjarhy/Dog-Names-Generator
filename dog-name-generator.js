@@ -1,4 +1,3 @@
-<script>
 const namesData = {
   male: {
     arabic: {
@@ -2529,4 +2528,3 @@ document.getElementById("nextPageBtn").addEventListener("click", () => {
     displayPagination();
   }
 });
-</script>
